@@ -1,3 +1,6 @@
+'making model Train-> making and using Controller passing in return Train to Welcome->toweb.php view "/" passing to welcome $Trains,with foreach building a div structure with trains, since doesnt show if we dont seeds them! so make Train migration then php artisan migrate, it will create a whole table for your database but still empy, with seeder by using fakerphp fill trains 50 times, it will be showed now in the page'
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
